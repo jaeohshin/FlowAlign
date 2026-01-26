@@ -1,4 +1,6 @@
 import os
+import sys
+sys.path.insert(0, '/data/work/DiffAlign')
 import torch
 from torch.optim import AdamW
 from torch.utils.data import DataLoader, random_split
@@ -12,7 +14,7 @@ EPOCH_50_WEIGHTS = os.path.join(CHECKPOINT_DIR, 'model_epoch_50.pt')
 RESUME_CHECKPOINT = os.path.join(CHECKPOINT_DIR, 'last_state.pt')
 
 LOG_DIR = 'runs/experiment_1'
-DATA_PATH = 'data/training_pairs_filtered.pkl'
+DATA_PATH = 'data/processed/training_pairs_filtered.pkl'
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 BATCH_SIZE = 4
 LEARNING_RATE = 1e-4
@@ -27,7 +29,7 @@ writer = SummaryWriter(LOG_DIR)
 start_epoch = 0
 best_val_loss = float('inf')
 epochs_without_improvement = 0
-
+"""
 # --- Strict Resume Logic ---
 if os.path.exists(RESUME_CHECKPOINT):
     print(f"[*] Found existing session. Resuming from: {RESUME_CHECKPOINT}")
@@ -43,6 +45,9 @@ elif os.path.exists(EPOCH_50_WEIGHTS):
     print(f"[*] Initializing training from Epoch {start_epoch}")
 else:
     raise FileNotFoundError("Could not find model_epoch_50.pt. Please check the file path.")
+"""
+
+print("[*] Starting fresh flow matching training from epoch 0")
 
 # --- Data Loading ---
 full_dataset = GeomPairsDataset(DATA_PATH)
