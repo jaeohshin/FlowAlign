@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.insert(0, '/data/work/DiffAlign')
+sys.path.insert(0, '/data/work/FlowAlign')
 import torch
 from torch.optim import AdamW
 from torch.utils.data import DataLoader, random_split
@@ -16,7 +16,7 @@ RESUME_CHECKPOINT = os.path.join(CHECKPOINT_DIR, 'last_state.pt')
 LOG_DIR = 'runs/experiment_1'
 DATA_PATH = 'data/processed/training_pairs_filtered.pkl'
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-BATCH_SIZE = 4
+BATCH_SIZE = 8
 LEARNING_RATE = 1e-4
 TARGET_EPOCHS = 200
 PATIENCE = 15 
@@ -29,25 +29,27 @@ writer = SummaryWriter(LOG_DIR)
 start_epoch = 0
 best_val_loss = float('inf')
 epochs_without_improvement = 0
-"""
-# --- Strict Resume Logic ---
-if os.path.exists(RESUME_CHECKPOINT):
+
+# --- Flexible Resume Logic ---
+FORCE_FRESH_START = False  # Set to True to ignore checkpoints
+
+if not FORCE_FRESH_START and os.path.exists(RESUME_CHECKPOINT):
     print(f"[*] Found existing session. Resuming from: {RESUME_CHECKPOINT}")
     checkpoint = torch.load(RESUME_CHECKPOINT, map_location=DEVICE)
     model.load_state_dict(checkpoint['model_state_dict'])
     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
     start_epoch = checkpoint['epoch']
     best_val_loss = checkpoint.get('best_val_loss', float('inf'))
-elif os.path.exists(EPOCH_50_WEIGHTS):
+    epochs_without_improvement = checkpoint.get('epochs_without_improvement', 0)
+    print(f"[*] Resuming from epoch {start_epoch} | Best val loss: {best_val_loss:.4f}")
+elif not FORCE_FRESH_START and os.path.exists(EPOCH_50_WEIGHTS):
     print(f"[*] Found Epoch 50 milestone. Loading: {EPOCH_50_WEIGHTS}")
     model.load_state_dict(torch.load(EPOCH_50_WEIGHTS, map_location=DEVICE))
     start_epoch = 50
     print(f"[*] Initializing training from Epoch {start_epoch}")
 else:
-    raise FileNotFoundError("Could not find model_epoch_50.pt. Please check the file path.")
-"""
-
-print("[*] Starting fresh flow matching training from epoch 0")
+    print("[*] Starting fresh flow matching training from epoch 0")
+    start_epoch = 0
 
 # --- Data Loading ---
 full_dataset = GeomPairsDataset(DATA_PATH)
@@ -121,7 +123,8 @@ for epoch in range(start_epoch, TARGET_EPOCHS):
         'epoch': epoch + 1,
         'model_state_dict': model.state_dict(),
         'optimizer_state_dict': optimizer.state_dict(),
-        'best_val_loss': best_val_loss
+        'best_val_loss': best_val_loss,
+        'epochs_without_improvement': epochs_without_improvement
     }
     
     if avg_val_loss < best_val_loss:
