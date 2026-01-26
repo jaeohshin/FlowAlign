@@ -1,4 +1,4 @@
-# DiffAlign-FlowMatching
+# FlowAlign
 
 Flow matching implementation based on DiffAlign.
 
@@ -17,12 +17,9 @@ with Pocket-Aware Guidance. MLSB Workshop.
 
 ## License
 MIT License - See LICENSE file (includes original DiffAlign copyright)
-```
+
 
 ### 3. **Keep the original LICENSE file**
-Make sure `LICENSE` file includes the original copyright:
-```
 Copyright (c) 2024 Iljung Kim (original DiffAlign)
 Copyright (c) 2026 Jaeoh Shin (flow matching modifications)
 
-MIT License (see `LICENSE`).
