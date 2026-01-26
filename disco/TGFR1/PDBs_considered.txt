@@ -1,0 +1,8 @@
+PDB_ID	Reason
+4X2N	No ligand in pdb
+5E8T	No ligand in pdb
+5E8U	No ligand in pdb
+1IAS	No ligand in pdb
+5E8S	No ligand in pdb
+1B6C	No ligand in pdb
+4X2G	Two ligands in / near same reference pocket

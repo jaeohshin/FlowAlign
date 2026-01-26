@@ -1,0 +1,9 @@
+PDB_ID	Reason
+1F9X	No ligand in pdb
+1G3F	No ligand in pdb
+2OPZ	No ligand in pdb
+1G73	No ligand in pdb
+1NW9	No ligand in pdb
+2VSL	Could not align to reference
+3CM2	Could not align to reference
+4EC4	Could not align to reference

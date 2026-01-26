@@ -1,0 +1,4 @@
+PDB_ID	Reason
+3CKI	No ligand in pdb
+3E8R	Two ligands in / near same reference pocket
+3O64	Could not align to reference

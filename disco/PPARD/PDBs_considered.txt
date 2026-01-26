@@ -1,0 +1,17 @@
+PDB_ID	Reason
+2GWX	No ligand in pdb
+5U3Q	Two ligands in / near same reference pocket
+5U3R	Two ligands in / near same reference pocket
+5U3S	Two ligands in / near same reference pocket
+5U3T	Two ligands in / near same reference pocket
+5U3U	Two ligands in / near same reference pocket
+5U3V	Two ligands in / near same reference pocket
+5U3W	Two ligands in / near same reference pocket
+5U3X	Two ligands in / near same reference pocket
+5U3Y	Two ligands in / near same reference pocket
+5U3Z	Two ligands in / near same reference pocket
+5U41	Two ligands in / near same reference pocket
+5U42	Two ligands in / near same reference pocket
+5U43	Two ligands in / near same reference pocket
+5U44	Two ligands in / near same reference pocket
+5U45	Two ligands in / near same reference pocket

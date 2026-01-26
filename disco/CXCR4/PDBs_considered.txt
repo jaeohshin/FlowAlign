@@ -1,0 +1,3 @@
+PDB_ID	Reason
+4RWS	No ligand in pdb
+3OE0	Ligand(s) outside reference pocket

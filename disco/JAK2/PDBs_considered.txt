@@ -1,0 +1,3 @@
+PDB_ID	Reason
+4GL9	Could not align to reference
+4JIA	Two ligands in / near same reference pocket

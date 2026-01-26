@@ -1,0 +1,2 @@
+PDB_ID	Reason
+5JJM	Could not align to reference

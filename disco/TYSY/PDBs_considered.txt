@@ -1,0 +1,54 @@
+PDB_ID	Reason
+3TMS	No ligand in pdb
+1TJS	No ligand in pdb
+1BQ2	No ligand in pdb
+1AIQ	Two ligands in / near same reference pocket
+1AJM	Could not align to reference
+1AN5	Two ligands in / near same reference pocket
+1AOB	Two ligands in / near same reference pocket
+1AXW	Two ligands in / near same reference pocket
+1BDU	Two ligands in / near same reference pocket
+1BJG	Two ligands in / near same reference pocket
+1BQ1	Two ligands in / near same reference pocket
+1DDU	Two ligands in / near same reference pocket
+1DNA	Two ligands in / near same reference pocket
+1EV5	Ligand(s) outside reference pocket
+1EVF	Ligand(s) outside reference pocket
+1EVG	Could not align to reference
+1F4B	Could not align to reference
+1F4C	Two ligands in / near same reference pocket
+1F4G	Two ligands in / near same reference pocket
+1FFL	Could not align to reference
+1FWM	Two ligands in / near same reference pocket
+1JG0	Two ligands in / near same reference pocket
+1JTQ	Two ligands in / near same reference pocket
+1JTU	Two ligands in / near same reference pocket
+1JUT	Two ligands in / near same reference pocket
+1KCE	Two ligands in / near same reference pocket
+1KZI	Two ligands in / near same reference pocket
+1KZJ	Two ligands in / near same reference pocket
+1NCE	Two ligands in / near same reference pocket
+1QQQ	Ligand(s) outside reference pocket
+1TDU	Two ligands in / near same reference pocket
+1TLC	Two ligands in / near same reference pocket
+1TLS	Two ligands in / near same reference pocket
+1TRG	Two ligands in / near same reference pocket
+1TSD	Two ligands in / near same reference pocket
+1TSN	Two ligands in / near same reference pocket
+1TYS	Two ligands in / near same reference pocket
+1ZPR	Two ligands in / near same reference pocket
+2A9W	Two ligands in / near same reference pocket
+2BBQ	Two ligands in / near same reference pocket
+2FTN	Could not align to reference
+2FTO	Two ligands in / near same reference pocket
+2FTQ	Could not align to reference
+2KCE	Two ligands in / near same reference pocket
+2TSC	Two ligands in / near same reference pocket
+2VF0	Two ligands in / near same reference pocket
+3BGX	Two ligands in / near same reference pocket
+3BHL	Two ligands in / near same reference pocket
+3BHR	Two ligands in / near same reference pocket
+4F2V	Two ligands in / near same reference pocket
+4GEV	Two ligands in / near same reference pocket
+4ISK	Two ligands in / near same reference pocket
+4KNZ	Two ligands in / near same reference pocket

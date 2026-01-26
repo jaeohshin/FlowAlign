@@ -1,0 +1,3 @@
+PDB_ID, LIG_ID, Source, Assay, Operator, Value, Units
+1r9o, FLP, BINDING_MOAD, , , , 
+1r9o, FLP, BINDING_DB, NA, NA, NA, NA

@@ -1,0 +1,42 @@
+PDB_ID	Reason
+2HDQ	No ligand in pdb
+1KE4	No ligand in pdb
+1L0F	No ligand in pdb
+1L0E	No ligand in pdb
+1L0D	No ligand in pdb
+2ZJ9	No ligand in pdb
+3IWQ	No ligand in pdb
+4LV0	No ligand in pdb
+3IWI	No ligand in pdb
+2BLS	No ligand in pdb
+3FKW	No ligand in pdb
+3BLS	No ligand in pdb
+4KG6	No ligand in pdb
+5GGW	No ligand in pdb
+3IXD	No ligand in pdb
+1KVM	Ligand(s) outside reference pocket
+1L0G	Two ligands in / near same reference pocket
+1LL9	Ligand(s) outside reference pocket
+1LLB	Ligand(s) outside reference pocket
+1O07	Ligand(s) outside reference pocket
+1XGI	Ligand(s) outside reference pocket
+2HDS	Two ligands in / near same reference pocket
+2HDU	Two ligands in / near same reference pocket
+2P9V	Ligand(s) outside reference pocket
+2R9W	Two ligands in / near same reference pocket
+2R9X	Two ligands in / near same reference pocket
+2RCX	Two ligands in / near same reference pocket
+3GRJ	Could not align to reference
+3IWO	Could not align to reference
+3IXG	Could not align to reference
+3IXH	Could not align to reference
+4E3I	Two ligands in / near same reference pocket
+4JXS	Ligand(s) outside reference pocket
+4KZ4	Ligand(s) outside reference pocket
+4KZ6	Ligand(s) outside reference pocket
+4KZ9	Could not align to reference
+4KZA	Two ligands in / near same reference pocket
+4KZB	Two ligands in / near same reference pocket
+4OKP	Could not align to reference
+4OLD	Two ligands in / near same reference pocket
+5F1G	Two ligands in / near same reference pocket

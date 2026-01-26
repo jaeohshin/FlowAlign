@@ -1,0 +1,3 @@
+PDB_ID	Reason
+3LCK	Could not align to reference
+3MPM	Two ligands in / near same reference pocket

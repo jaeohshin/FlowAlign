@@ -1,0 +1,14 @@
+PDB_ID	Reason
+1O86	Two ligands in / near same reference pocket
+1O8A	Could not align to reference
+1UZE	Two ligands in / near same reference pocket
+2IUL	Could not align to reference
+2IUX	Could not align to reference
+2XY9	Two ligands in / near same reference pocket
+4APH	Could not align to reference
+4APJ	Could not align to reference
+4BZR	Two ligands in / near same reference pocket
+4C2N	Could not align to reference
+4C2O	Could not align to reference
+4C2Q	Could not align to reference
+4C2R	Could not align to reference

@@ -1,0 +1,2 @@
+PDB_ID	Reason
+1KKQ	Could not align to reference

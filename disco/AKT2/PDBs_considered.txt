@@ -1,0 +1,7 @@
+PDB_ID	Reason
+1MRY	No ligand in pdb
+1MRV	No ligand in pdb
+1GZN	No ligand in pdb
+1GZO	No ligand in pdb
+1GZK	No ligand in pdb
+2JDO	Two ligands in / near same reference pocket

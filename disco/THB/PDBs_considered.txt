@@ -1,0 +1,5 @@
+PDB_ID	Reason
+1BSX	Could not align to reference
+1XZX	Could not align to reference
+3GWS	Could not align to reference
+4ZO1	Could not align to reference

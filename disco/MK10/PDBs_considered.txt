@@ -1,0 +1,21 @@
+PDB_ID	Reason
+1UKH	No ligand in pdb
+4H39	No ligand in pdb
+4YR8	No ligand in pdb
+3O17	No ligand in pdb
+4H36	No ligand in pdb
+4H3B	No ligand in pdb
+3VUL	No ligand in pdb
+3VUM	No ligand in pdb
+3VUH	No ligand in pdb
+3VUI	No ligand in pdb
+3VUK	No ligand in pdb
+3VUD	No ligand in pdb
+4KKG	No ligand in pdb
+3VUG	No ligand in pdb
+5LEN	No ligand in pdb
+2R9S	Two ligands in / near same reference pocket
+3FI3	Two ligands in / near same reference pocket
+3O2M	Could not align to reference
+4QTD	Two ligands in / near same reference pocket
+4Z9L	Two ligands in / near same reference pocket

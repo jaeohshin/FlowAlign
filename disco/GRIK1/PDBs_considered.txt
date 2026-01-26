@@ -1,0 +1,18 @@
+PDB_ID	Reason
+3FUZ	No ligand in pdb
+1YCJ	No ligand in pdb
+2ZNS	No ligand in pdb
+2F36	No ligand in pdb
+1TXF	No ligand in pdb
+3C31	Two ligands in / near same reference pocket
+3C32	Two ligands in / near same reference pocket
+3C33	Two ligands in / near same reference pocket
+3C34	Two ligands in / near same reference pocket
+3C35	Two ligands in / near same reference pocket
+3C36	Two ligands in / near same reference pocket
+3FVO	Two ligands in / near same reference pocket
+4QF9	Two ligands in / near same reference pocket
+4YMB	Two ligands in / near same reference pocket
+5MFQ	Two ligands in / near same reference pocket
+5MFV	Two ligands in / near same reference pocket
+5MFW	Two ligands in / near same reference pocket

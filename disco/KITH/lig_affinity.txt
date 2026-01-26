@@ -1,0 +1,6 @@
+PDB_ID, LIG_ID, Source, Assay, Operator, Value, Units
+2UZ3, TTP, BINDING_MOAD, , , , 
+2UZ3, TTP, BINDING_MOAD, , , , 
+2UZ3, TTP, BINDING_MOAD, , , , 
+2UZ3, TTP, BINDING_MOAD, , , , 
+2UZ3, TTP, BINDING_DB, NA, NA, NA, NA

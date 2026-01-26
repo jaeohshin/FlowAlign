@@ -1,0 +1,34 @@
+PDB_ID	Reason
+1FT1	No ligand in pdb
+1JCQ	Two ligands in / near same reference pocket
+1KZO	Two ligands in / near same reference pocket
+1LD7	Two ligands in / near same reference pocket
+1LD8	Two ligands in / near same reference pocket
+1MZC	Two ligands in / near same reference pocket
+1N94	Two ligands in / near same reference pocket
+1N95	Two ligands in / near same reference pocket
+1N9A	Two ligands in / near same reference pocket
+1NI1	Two ligands in / near same reference pocket
+1NL4	Two ligands in / near same reference pocket
+1O5M	Two ligands in / near same reference pocket
+1S63	Two ligands in / near same reference pocket
+1SA4	Two ligands in / near same reference pocket
+1SA5	Two ligands in / near same reference pocket
+2BED	Two ligands in / near same reference pocket
+2F0Y	Two ligands in / near same reference pocket
+2H6F	Two ligands in / near same reference pocket
+2IEJ	Two ligands in / near same reference pocket
+2R2L	Two ligands in / near same reference pocket
+2ZIR	Two ligands in / near same reference pocket
+2ZIS	Two ligands in / near same reference pocket
+3E30	Two ligands in / near same reference pocket
+3E32	Two ligands in / near same reference pocket
+3E33	Two ligands in / near same reference pocket
+3E34	Two ligands in / near same reference pocket
+3KSQ	Two ligands in / near same reference pocket
+3PZ4	Two ligands in / near same reference pocket
+4GTM	Two ligands in / near same reference pocket
+4GTO	Two ligands in / near same reference pocket
+4GTP	Two ligands in / near same reference pocket
+4GTQ	Two ligands in / near same reference pocket
+4GTR	Two ligands in / near same reference pocket

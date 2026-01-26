@@ -1,0 +1,14 @@
+PDB_ID	Reason
+1XEM	No ligand in pdb
+1XEN	No ligand in pdb
+1XEO	No ligand in pdb
+2W3T	No ligand in pdb
+2W3U	No ligand in pdb
+1DFF	No ligand in pdb
+1BS5	No ligand in pdb
+1BS6	No ligand in pdb
+1BS7	No ligand in pdb
+4AZ4	No ligand in pdb
+1BS8	No ligand in pdb
+4AL3	No ligand in pdb
+4AL2	No ligand in pdb

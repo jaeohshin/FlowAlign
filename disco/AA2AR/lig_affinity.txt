@@ -1,0 +1,3 @@
+PDB_ID, LIG_ID, Source, Assay, Operator, Value, Units
+3QAK, UKA, PDB_BIND, Ki, =, 4.75, nM
+3QAK, UKA, BINDING_DB, NA, NA, NA, NA

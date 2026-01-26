@@ -1,0 +1,7 @@
+PDB_ID	Reason
+4XHU	No ligand in pdb
+4HHY	Two ligands in / near same reference pocket
+4R5W	Two ligands in / near same reference pocket
+4R6E	Two ligands in / near same reference pocket
+4ZZZ	Two ligands in / near same reference pocket
+5HA9	Could not align to reference

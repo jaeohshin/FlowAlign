@@ -1,0 +1,5 @@
+PDB_ID	Reason
+1VR2	Could not align to reference
+3BE2	Could not align to reference
+3VNT	Two ligands in / near same reference pocket
+3WZD	Two ligands in / near same reference pocket

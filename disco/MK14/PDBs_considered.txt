@@ -1,0 +1,63 @@
+PDB_ID	Reason
+5ETI	No ligand in pdb
+2ONL	No ligand in pdb
+5ETC	No ligand in pdb
+5ETA	No ligand in pdb
+5ETF	No ligand in pdb
+1R3C	No ligand in pdb
+1WBO	No ligand in pdb
+4KA3	No ligand in pdb
+1LEZ	No ligand in pdb
+1LEW	No ligand in pdb
+1R39	No ligand in pdb
+2Y8O	No ligand in pdb
+5UOJ	No ligand in pdb
+1WFC	No ligand in pdb
+4E5A	No ligand in pdb
+2OKR	No ligand in pdb
+4E5B	No ligand in pdb
+2OZA	No ligand in pdb
+3P4K	No ligand in pdb
+3TG1	No ligand in pdb
+2LGC	No ligand in pdb
+1WBV	Two ligands in / near same reference pocket
+2FSL	Could not align to reference
+2FSM	Could not align to reference
+2FSO	Could not align to reference
+2FST	Could not align to reference
+2I0H	Two ligands in / near same reference pocket
+2NPQ	Could not align to reference
+2ZAZ	Two ligands in / near same reference pocket
+3HV3	Two ligands in / near same reference pocket
+3MGY	Could not align to reference
+3MH0	Could not align to reference
+3MH1	Could not align to reference
+3MH2	Could not align to reference
+3MH3	Could not align to reference
+3NEW	Could not align to reference
+3O8P	Two ligands in / near same reference pocket
+3OC1	Two ligands in / near same reference pocket
+3OD6	Could not align to reference
+3ODY	Could not align to reference
+3ODZ	Could not align to reference
+3OEF	Could not align to reference
+3PY3	Could not align to reference
+4DLI	Could not align to reference
+4E6A	Could not align to reference
+4E6C	Could not align to reference
+4E8A	Could not align to reference
+4EH8	Two ligands in / near same reference pocket
+4EH9	Could not align to reference
+4EHV	Could not align to reference
+4F9Y	Two ligands in / near same reference pocket
+4FA2	Two ligands in / near same reference pocket
+4GEO	Could not align to reference
+4L8M	Two ligands in / near same reference pocket
+4R3C	Two ligands in / near same reference pocket
+4TYH	Could not align to reference
+5N63	Could not align to reference
+5N64	Could not align to reference
+5N67	Could not align to reference
+5N68	Could not align to reference
+5O8U	Could not align to reference
+5O8V	Could not align to reference

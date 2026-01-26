@@ -1,0 +1,16 @@
+PDB_ID	Reason
+5NIA	No ligand in pdb
+5NID	No ligand in pdb
+5NIE	No ligand in pdb
+1H19	Could not align to reference
+1SQM	Could not align to reference
+3B7S	Could not align to reference
+3B7T	Could not align to reference
+3FTX	Two ligands in / near same reference pocket
+3FUD	Could not align to reference
+3FUH	Two ligands in / near same reference pocket
+4MKT	Two ligands in / near same reference pocket
+4R7L	Two ligands in / near same reference pocket
+4RVB	Could not align to reference
+5FWQ	Could not align to reference
+5NI6	Two ligands in / near same reference pocket

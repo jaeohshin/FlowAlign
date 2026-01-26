@@ -1,0 +1,4 @@
+PDB_ID	Reason
+1DQ8	Two ligands in / near same reference pocket
+1DQA	Two ligands in / near same reference pocket
+1HWK	Two ligands in / near same reference pocket

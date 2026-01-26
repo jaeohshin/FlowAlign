@@ -1,0 +1,3 @@
+PDB_ID	Reason
+2J7X	Two ligands in / near same reference pocket
+2J7Y	Two ligands in / near same reference pocket

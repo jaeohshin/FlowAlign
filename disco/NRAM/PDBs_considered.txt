@@ -1,0 +1,6 @@
+PDB_ID	Reason
+1NSB	Could not align to reference
+3K36	Could not align to reference
+3K38	Could not align to reference
+3K39	Could not align to reference
+3K3A	Could not align to reference

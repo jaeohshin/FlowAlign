@@ -1,0 +1,17 @@
+PDB_ID	Reason
+3EOB	No ligand in pdb
+1DGQ	No ligand in pdb
+1LFA	No ligand in pdb
+3HI6	No ligand in pdb
+1MQA	No ligand in pdb
+1MQ9	No ligand in pdb
+3TCX	No ligand in pdb
+3F74	No ligand in pdb
+3EOA	No ligand in pdb
+1ZOP	No ligand in pdb
+1ZON	No ligand in pdb
+1ZOO	No ligand in pdb
+1MJN	No ligand in pdb
+1MQ8	Could not align to reference
+1T0P	Could not align to reference
+3BN3	Could not align to reference

@@ -1,0 +1,6 @@
+PDB_ID	Reason
+1V4T	No ligand in pdb
+3FGU	Could not align to reference
+3IDH	Could not align to reference
+3QIC	Could not align to reference
+4LC9	Could not align to reference

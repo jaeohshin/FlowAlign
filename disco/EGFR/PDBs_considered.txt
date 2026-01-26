@@ -1,0 +1,28 @@
+PDB_ID	Reason
+2JIT	No ligand in pdb
+2GS2	No ligand in pdb
+3GOP	No ligand in pdb
+2RFE	No ligand in pdb
+5EDP	No ligand in pdb
+2EB2	No ligand in pdb
+4I21	No ligand in pdb
+4I20	No ligand in pdb
+2RF9	No ligand in pdb
+2RFD	No ligand in pdb
+4I1Z	No ligand in pdb
+4TKS	No ligand in pdb
+1M14	No ligand in pdb
+1XKK	Two ligands in / near same reference pocket
+2J5E	Ligand(s) outside reference pocket
+3GT8	Could not align to reference
+3UG1	Could not align to reference
+4R3P	Could not align to reference
+4R3R	Could not align to reference
+4WRG	Could not align to reference
+4ZJV	Could not align to reference
+5CZH	Could not align to reference
+5CZI	Could not align to reference
+5D41	Two ligands in / near same reference pocket
+5GNK	Two ligands in / near same reference pocket
+5GTZ	Two ligands in / near same reference pocket
+5UG8	Two ligands in / near same reference pocket

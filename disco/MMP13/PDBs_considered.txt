@@ -1,0 +1,12 @@
+PDB_ID	Reason
+2E2D	No ligand in pdb
+1EUB	Two ligands in / near same reference pocket
+3I7G	Two ligands in / near same reference pocket
+3KEC	Two ligands in / near same reference pocket
+3O2X	Two ligands in / near same reference pocket
+3WV1	Two ligands in / near same reference pocket
+3WV3	Two ligands in / near same reference pocket
+3ZXH	Two ligands in / near same reference pocket
+4A7B	Two ligands in / near same reference pocket
+4L19	Two ligands in / near same reference pocket
+5UWM	Two ligands in / near same reference pocket

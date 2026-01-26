@@ -1,0 +1,95 @@
+PDB_ID	Reason
+5FTI	No ligand in pdb
+2I3V	No ligand in pdb
+2I3W	No ligand in pdb
+3T9X	No ligand in pdb
+1MXZ	No ligand in pdb
+1MXX	No ligand in pdb
+1MXY	No ligand in pdb
+5FTH	No ligand in pdb
+1MY1	No ligand in pdb
+1MY0	No ligand in pdb
+3DLN	No ligand in pdb
+3FAS	No ligand in pdb
+3EPE	No ligand in pdb
+4O3C	No ligand in pdb
+4O3A	No ligand in pdb
+1FTO	No ligand in pdb
+1FTJ	No ligand in pdb
+3M3K	No ligand in pdb
+4YU0	No ligand in pdb
+3B6Q	No ligand in pdb
+3LSF	No ligand in pdb
+3LSL	No ligand in pdb
+3LSX	No ligand in pdb
+4U2R	No ligand in pdb
+3T93	No ligand in pdb
+3DP6	No ligand in pdb
+3KEI	No ligand in pdb
+4F3B	No ligand in pdb
+2GFE	No ligand in pdb
+3B6W	No ligand in pdb
+2UXA	No ligand in pdb
+1MXV	No ligand in pdb
+1MXW	No ligand in pdb
+1LBC	Could not align to reference
+2CMO	Two ligands in / near same reference pocket
+2P2A	Could not align to reference
+2XHD	Could not align to reference
+2XX7	Could not align to reference
+2XX8	Could not align to reference
+2XX9	Could not align to reference
+2XXH	Could not align to reference
+2XXI	Could not align to reference
+3B7D	Could not align to reference
+3BBR	Could not align to reference
+3H6T	Could not align to reference
+3H6U	Could not align to reference
+3H6V	Could not align to reference
+3H6W	Could not align to reference
+3IJO	Could not align to reference
+3IJX	Could not align to reference
+3IK6	Could not align to reference
+3IL1	Could not align to reference
+3ILT	Could not align to reference
+3ILU	Could not align to reference
+3LSW	Could not align to reference
+3M3F	Could not align to reference
+3M3L	Could not align to reference
+3O28	Could not align to reference
+3O29	Could not align to reference
+3O2A	Could not align to reference
+3O6G	Could not align to reference
+3O6H	Could not align to reference
+3O6I	Could not align to reference
+3PMV	Could not align to reference
+3PMW	Could not align to reference
+3PMX	Could not align to reference
+3RN8	Could not align to reference
+3RNN	Could not align to reference
+3TDJ	Could not align to reference
+3TKD	Could not align to reference
+4FAT	Could not align to reference
+4H8J	Two ligands in / near same reference pocket
+4ISU	Two ligands in / near same reference pocket
+4IY5	Could not align to reference
+4IY6	Could not align to reference
+4LZ5	Could not align to reference
+4LZ7	Could not align to reference
+4LZ8	Could not align to reference
+4N07	Could not align to reference
+4O3B	Could not align to reference
+4U4S	Could not align to reference
+4U4X	Could not align to reference
+4X48	Could not align to reference
+4YMA	Two ligands in / near same reference pocket
+4Z0I	Could not align to reference
+5BUU	Could not align to reference
+5CBR	Two ligands in / near same reference pocket
+5CBS	Two ligands in / near same reference pocket
+5ELV	Could not align to reference
+5FHM	Two ligands in / near same reference pocket
+5FHN	Two ligands in / near same reference pocket
+5H8S	Could not align to reference
+5NG9	Two ligands in / near same reference pocket
+5NS9	Could not align to reference

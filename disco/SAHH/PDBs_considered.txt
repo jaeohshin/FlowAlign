@@ -1,0 +1,16 @@
+PDB_ID	Reason
+1A7A	Two ligands in / near same reference pocket
+1D4F	Two ligands in / near same reference pocket
+1K0U	Two ligands in / near same reference pocket
+1KY5	Two ligands in / near same reference pocket
+1XWF	Two ligands in / near same reference pocket
+2H5L	Two ligands in / near same reference pocket
+3NJ4	Two ligands in / near same reference pocket
+4PFJ	Two ligands in / near same reference pocket
+4PGF	Two ligands in / near same reference pocket
+4YVF	Two ligands in / near same reference pocket
+5AXA	Two ligands in / near same reference pocket
+5AXB	Two ligands in / near same reference pocket
+5AXC	Two ligands in / near same reference pocket
+5AXD	Two ligands in / near same reference pocket
+5W49	Two ligands in / near same reference pocket

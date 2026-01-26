@@ -1,0 +1,30 @@
+PDB_ID	Reason
+1C5M	No ligand in pdb
+2P3F	No ligand in pdb
+1HCG	No ligand in pdb
+1LPG	Could not align to reference
+1LPK	Could not align to reference
+1LPZ	Could not align to reference
+1LQD	Could not align to reference
+1P0S	Could not align to reference
+1XKB	Could not align to reference
+2BMG	Could not align to reference
+2BOH	Could not align to reference
+2BQ6	Could not align to reference
+2BQ7	Could not align to reference
+2BQW	Could not align to reference
+2GD4	Could not align to reference
+2H9E	Could not align to reference
+2P3T	Could not align to reference
+2P3U	Could not align to reference
+2VWL	Two ligands in / near same reference pocket
+2VWN	Two ligands in / near same reference pocket
+2VWO	Two ligands in / near same reference pocket
+3ENS	Could not align to reference
+3HPT	Could not align to reference
+3K9X	Could not align to reference
+3SW2	Could not align to reference
+4A7I	Could not align to reference
+4BTI	Could not align to reference
+4BTT	Could not align to reference
+4BTU	Could not align to reference

@@ -1,0 +1,54 @@
+PDB_ID	Reason
+2VTA	No ligand in pdb
+5ANO	No ligand in pdb
+1PW2	No ligand in pdb
+1BUH	No ligand in pdb
+1HCL	No ligand in pdb
+5FP5	No ligand in pdb
+5IF1	No ligand in pdb
+1URC	No ligand in pdb
+5UQ1	No ligand in pdb
+5UQ3	No ligand in pdb
+5UQ2	No ligand in pdb
+1WCC	No ligand in pdb
+2VTM	No ligand in pdb
+1OKV	No ligand in pdb
+4EK3	No ligand in pdb
+1F5Q	No ligand in pdb
+3PXR	No ligand in pdb
+2WFY	No ligand in pdb
+1CKP	Two ligands in / near same reference pocket
+1FQ1	Could not align to reference
+1GY3	Two ligands in / near same reference pocket
+1H01	Two ligands in / near same reference pocket
+1H07	Two ligands in / near same reference pocket
+1H08	Could not align to reference
+1H24	Could not align to reference
+1H25	Could not align to reference
+1H26	Could not align to reference
+1H27	Could not align to reference
+1H28	Could not align to reference
+1JSU	Could not align to reference
+1JVP	Could not align to reference
+1OKW	Could not align to reference
+1OL1	Could not align to reference
+1OL2	Could not align to reference
+1W98	Could not align to reference
+2JGZ	Could not align to reference
+2V22	Could not align to reference
+2WHB	Could not align to reference
+2WMA	Could not align to reference
+2WMB	Could not align to reference
+3PXF	Could not align to reference
+3PXQ	Two ligands in / near same reference pocket
+3PXZ	Two ligands in / near same reference pocket
+3PY0	Two ligands in / near same reference pocket
+3PY1	Two ligands in / near same reference pocket
+3QHR	Two ligands in / near same reference pocket
+3QHW	Two ligands in / near same reference pocket
+3TIY	Two ligands in / near same reference pocket
+3UNJ	Two ligands in / near same reference pocket
+3UNK	Two ligands in / near same reference pocket
+4ERW	Two ligands in / near same reference pocket
+4EZ7	Two ligands in / near same reference pocket
+4I3Z	Two ligands in / near same reference pocket

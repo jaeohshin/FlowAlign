@@ -1,0 +1,3 @@
+PDB_ID	LIG_ID
+3EML	lig
+3QAK	UKA

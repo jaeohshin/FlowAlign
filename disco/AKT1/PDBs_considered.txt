@@ -1,0 +1,2 @@
+PDB_ID	Reason
+4GV1	Two ligands in / near same reference pocket

@@ -1,0 +1,11 @@
+PDB_ID	Reason
+1DIY	Two ligands in / near same reference pocket
+1FE2	Two ligands in / near same reference pocket
+1PGE	Two ligands in / near same reference pocket
+1PRH	Could not align to reference
+1PTH	Ligand(s) outside reference pocket
+1U67	Two ligands in / near same reference pocket
+2OYE	Two ligands in / near same reference pocket
+3N8V	Could not align to reference
+5U6X	Two ligands in / near same reference pocket
+5WBE	Two ligands in / near same reference pocket

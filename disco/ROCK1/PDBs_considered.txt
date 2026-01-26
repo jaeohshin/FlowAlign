@@ -1,0 +1,3 @@
+PDB_ID	Reason
+3NDM	Could not align to reference
+3TV7	Two ligands in / near same reference pocket

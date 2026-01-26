@@ -1,0 +1,276 @@
+PDB_ID	Reason
+3UY9	No ligand in pdb
+3RXB	No ligand in pdb
+1SBW	No ligand in pdb
+2BZA	No ligand in pdb
+5MOO	No ligand in pdb
+2FI5	No ligand in pdb
+2FI4	No ligand in pdb
+2FI3	No ligand in pdb
+1BTX	No ligand in pdb
+3UNQ	No ligand in pdb
+1TIO	No ligand in pdb
+2FTL	No ligand in pdb
+2FTM	No ligand in pdb
+4AB9	No ligand in pdb
+1C1O	No ligand in pdb
+1C1N	No ligand in pdb
+2A7H	No ligand in pdb
+1SFI	No ligand in pdb
+1QA0	No ligand in pdb
+5MN1	No ligand in pdb
+5F6M	No ligand in pdb
+1OPH	No ligand in pdb
+2QN5	No ligand in pdb
+5MON	No ligand in pdb
+1SMF	No ligand in pdb
+1UTP	No ligand in pdb
+1UTQ	No ligand in pdb
+6B6N	No ligand in pdb
+1JIR	No ligand in pdb
+6B6R	No ligand in pdb
+6B6S	No ligand in pdb
+5T3H	No ligand in pdb
+1UTN	No ligand in pdb
+1UTO	No ligand in pdb
+1TAW	No ligand in pdb
+1BTY	No ligand in pdb
+3ATL	No ligand in pdb
+2FX6	No ligand in pdb
+1EJM	No ligand in pdb
+2PTC	No ligand in pdb
+2PTN	No ligand in pdb
+3RDZ	No ligand in pdb
+5GIB	No ligand in pdb
+1D6R	No ligand in pdb
+4B1T	No ligand in pdb
+1C5P	No ligand in pdb
+1C5V	No ligand in pdb
+3PTN	No ligand in pdb
+3PTB	No ligand in pdb
+1C9T	No ligand in pdb
+1TLD	No ligand in pdb
+1TGS	No ligand in pdb
+1TGT	No ligand in pdb
+1TGB	No ligand in pdb
+1TGC	No ligand in pdb
+1TGN	No ligand in pdb
+1N6X	No ligand in pdb
+3OTJ	No ligand in pdb
+2TIO	No ligand in pdb
+1V2L	No ligand in pdb
+2TGA	No ligand in pdb
+1OX1	No ligand in pdb
+2TGT	No ligand in pdb
+4I8G	No ligand in pdb
+2TGP	No ligand in pdb
+4I8H	No ligand in pdb
+4I8K	No ligand in pdb
+4I8J	No ligand in pdb
+4I8L	No ligand in pdb
+3VEQ	No ligand in pdb
+4B2A	No ligand in pdb
+4B2B	No ligand in pdb
+4B2C	No ligand in pdb
+2OTV	No ligand in pdb
+1ZR0	No ligand in pdb
+5FXL	No ligand in pdb
+3T29	No ligand in pdb
+3T28	No ligand in pdb
+2CMY	No ligand in pdb
+3T27	No ligand in pdb
+3T26	No ligand in pdb
+4Y10	No ligand in pdb
+3D65	No ligand in pdb
+3A8A	No ligand in pdb
+3RU4	No ligand in pdb
+2ILN	No ligand in pdb
+1C2L	No ligand in pdb
+1C2M	No ligand in pdb
+3MI4	No ligand in pdb
+3M7Q	No ligand in pdb
+2AGG	No ligand in pdb
+2AGE	No ligand in pdb
+5JYI	No ligand in pdb
+1TPO	No ligand in pdb
+1TPA	No ligand in pdb
+4NIY	No ligand in pdb
+4NIX	No ligand in pdb
+2G55	No ligand in pdb
+4NIW	No ligand in pdb
+4NIV	No ligand in pdb
+2UUY	No ligand in pdb
+2BTC	No ligand in pdb
+3PLB	No ligand in pdb
+1P2I	No ligand in pdb
+1P2K	No ligand in pdb
+1P2J	No ligand in pdb
+1G9I	No ligand in pdb
+4YTA	No ligand in pdb
+3I29	No ligand in pdb
+4TPY	No ligand in pdb
+4GUX	No ligand in pdb
+3T25	No ligand in pdb
+1BTP	No ligand in pdb
+3UNR	No ligand in pdb
+3E8L	No ligand in pdb
+1EZX	No ligand in pdb
+3ATI	No ligand in pdb
+3ATK	No ligand in pdb
+4Y0Y	No ligand in pdb
+4Y0Z	No ligand in pdb
+5K7R	No ligand in pdb
+1S0R	No ligand in pdb
+3A7T	No ligand in pdb
+3A7V	No ligand in pdb
+3GY4	No ligand in pdb
+3GY7	No ligand in pdb
+4NCY	No ligand in pdb
+3QK1	No ligand in pdb
+2BY9	No ligand in pdb
+2BY8	No ligand in pdb
+1CE5	No ligand in pdb
+2BY7	No ligand in pdb
+2BY6	No ligand in pdb
+2BY5	No ligand in pdb
+5MNB	No ligand in pdb
+2BYA	No ligand in pdb
+1F2S	No ligand in pdb
+2XTT	No ligand in pdb
+2O9Q	No ligand in pdb
+4XOJ	No ligand in pdb
+3RXL	No ligand in pdb
+3RXG	No ligand in pdb
+3RXF	No ligand in pdb
+3RXE	No ligand in pdb
+3RXD	No ligand in pdb
+3RXC	No ligand in pdb
+5MNA	No ligand in pdb
+3RXA	No ligand in pdb
+5MNC	No ligand in pdb
+5MNX	No ligand in pdb
+5MNY	No ligand in pdb
+3RXV	No ligand in pdb
+3RXU	No ligand in pdb
+3RXT	No ligand in pdb
+3RXS	No ligand in pdb
+3RXR	No ligand in pdb
+3RXQ	No ligand in pdb
+3RXP	No ligand in pdb
+3BTF	No ligand in pdb
+1TNG	No ligand in pdb
+1TNL	No ligand in pdb
+1TNI	No ligand in pdb
+1TNH	No ligand in pdb
+1TNK	No ligand in pdb
+1TNJ	No ligand in pdb
+1V2S	No ligand in pdb
+1V2V	No ligand in pdb
+1V2U	No ligand in pdb
+1N6Y	No ligand in pdb
+1V2J	No ligand in pdb
+1TAB	No ligand in pdb
+1V2M	No ligand in pdb
+3MFJ	No ligand in pdb
+4KTU	No ligand in pdb
+4KTS	No ligand in pdb
+2QYI	No ligand in pdb
+2BLV	No ligand in pdb
+2BLW	No ligand in pdb
+4HGC	No ligand in pdb
+1PPE	No ligand in pdb
+3PWB	No ligand in pdb
+2F3C	No ligand in pdb
+1NTP	No ligand in pdb
+4U2W	No ligand in pdb
+2J9N	No ligand in pdb
+1J8A	No ligand in pdb
+3TPI	No ligand in pdb
+2OXS	No ligand in pdb
+3BTK	No ligand in pdb
+3BTH	No ligand in pdb
+1S0Q	No ligand in pdb
+3BTM	No ligand in pdb
+3BTG	No ligand in pdb
+4J2Y	No ligand in pdb
+3BTE	No ligand in pdb
+3BTD	No ligand in pdb
+3BTQ	No ligand in pdb
+3BTW	No ligand in pdb
+2TLD	No ligand in pdb
+3BTT	No ligand in pdb
+3RXH	No ligand in pdb
+1HJ9	No ligand in pdb
+4TPI	No ligand in pdb
+1AQ7	Ligand(s) outside reference pocket
+1BJU	Two ligands in / near same reference pocket
+1BJV	Two ligands in / near same reference pocket
+1C1P	Two ligands in / near same reference pocket
+1C1S	Two ligands in / near same reference pocket
+1C5R	Two ligands in / near same reference pocket
+1C5U	Two ligands in / near same reference pocket
+1F0T	Two ligands in / near same reference pocket
+1F0U	Two ligands in / near same reference pocket
+1G36	Two ligands in / near same reference pocket
+1G3C	Two ligands in / near same reference pocket
+1GI0	Two ligands in / near same reference pocket
+1JRS	Ligand(s) outside reference pocket
+1JRT	Ligand(s) outside reference pocket
+1K1J	Two ligands in / near same reference pocket
+1K1L	Two ligands in / near same reference pocket
+1K1M	Two ligands in / near same reference pocket
+1OYQ	Two ligands in / near same reference pocket
+1QL7	Two ligands in / near same reference pocket
+1QL8	Two ligands in / near same reference pocket
+1TPS	Ligand(s) outside reference pocket
+1V2K	Two ligands in / near same reference pocket
+1V2O	Two ligands in / near same reference pocket
+1V2P	Two ligands in / near same reference pocket
+1V2Q	Two ligands in / near same reference pocket
+1V2R	Two ligands in / near same reference pocket
+1V2T	Two ligands in / near same reference pocket
+1V2W	Two ligands in / near same reference pocket
+1XUK	Two ligands in / near same reference pocket
+1Y59	Two ligands in / near same reference pocket
+1Y5A	Two ligands in / near same reference pocket
+1Y5B	Two ligands in / near same reference pocket
+1Y5U	Two ligands in / near same reference pocket
+2AGI	Could not align to reference
+2D8W	Ligand(s) outside reference pocket
+2G5N	Two ligands in / near same reference pocket
+2G8T	Two ligands in / near same reference pocket
+2PLX	Could not align to reference
+2TPI	Could not align to reference
+2ZHD	Two ligands in / near same reference pocket
+3GY2	Two ligands in / near same reference pocket
+3GY5	Two ligands in / near same reference pocket
+3GY6	Two ligands in / near same reference pocket
+3ITI	Could not align to reference
+3LJJ	Two ligands in / near same reference pocket
+3LJO	Two ligands in / near same reference pocket
+3PLK	Two ligands in / near same reference pocket
+3PMJ	Two ligands in / near same reference pocket
+3PWC	Two ligands in / near same reference pocket
+3PYH	Two ligands in / near same reference pocket
+3Q00	Two ligands in / near same reference pocket
+3UNS	Two ligands in / near same reference pocket
+3UOP	Two ligands in / near same reference pocket
+3UQV	Two ligands in / near same reference pocket
+3UWI	Two ligands in / near same reference pocket
+3V12	Two ligands in / near same reference pocket
+3V13	Two ligands in / near same reference pocket
+4AB8	Two ligands in / near same reference pocket
+4ABA	Two ligands in / near same reference pocket
+4ABD	Two ligands in / near same reference pocket
+4ABE	Two ligands in / near same reference pocket
+4ABG	Two ligands in / near same reference pocket
+4ABH	Two ligands in / near same reference pocket
+4ABI	Ligand(s) outside reference pocket
+4ABJ	Two ligands in / near same reference pocket
+4AOQ	Could not align to reference
+4AOR	Could not align to reference
+4Y11	Ligand(s) outside reference pocket
+5GXP	Could not align to reference
+6AVL	Could not align to reference
+6B6P	Could not align to reference
+6B6Q	Could not align to reference

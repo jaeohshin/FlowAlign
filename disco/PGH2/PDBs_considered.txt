@@ -1,0 +1,14 @@
+PDB_ID	Reason
+3NT1	Two ligands in / near same reference pocket
+3NTB	Two ligands in / near same reference pocket
+3OLU	Two ligands in / near same reference pocket
+3Q7D	Two ligands in / near same reference pocket
+3RR3	Two ligands in / near same reference pocket
+4FM5	Two ligands in / near same reference pocket
+4PH9	Two ligands in / near same reference pocket
+4RRY	Could not align to reference
+4RS0	Two ligands in / near same reference pocket
+4Z0L	Two ligands in / near same reference pocket
+5COX	Could not align to reference
+5JVY	Could not align to reference
+5JVZ	Two ligands in / near same reference pocket

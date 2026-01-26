@@ -1,0 +1,13 @@
+PDB_ID	Reason
+1ALB	No ligand in pdb
+1G7N	No ligand in pdb
+3RZY	No ligand in pdb
+1LIB	No ligand in pdb
+1LIF	No ligand in pdb
+5C0N	No ligand in pdb
+1AB0	No ligand in pdb
+5D8J	No ligand in pdb
+1A2D	Ligand(s) outside reference pocket
+3JS1	Ligand(s) outside reference pocket
+3JSQ	Two ligands in / near same reference pocket
+5HZ8	Two ligands in / near same reference pocket

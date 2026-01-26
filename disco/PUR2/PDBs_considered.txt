@@ -1,0 +1,18 @@
+PDB_ID	Reason
+1MEJ	No ligand in pdb
+1MEO	No ligand in pdb
+4EW1	No ligand in pdb
+1RBY	Two ligands in / near same reference pocket
+1ZLX	Ligand(s) outside reference pocket
+4ZYT	Two ligands in / near same reference pocket
+4ZYU	Two ligands in / near same reference pocket
+4ZYV	Two ligands in / near same reference pocket
+4ZYW	Two ligands in / near same reference pocket
+4ZYX	Two ligands in / near same reference pocket
+4ZYY	Two ligands in / near same reference pocket
+4ZYZ	Two ligands in / near same reference pocket
+4ZZ0	Two ligands in / near same reference pocket
+4ZZ1	Two ligands in / near same reference pocket
+4ZZ2	Two ligands in / near same reference pocket
+4ZZ3	Two ligands in / near same reference pocket
+5J9F	Two ligands in / near same reference pocket

@@ -1,0 +1,156 @@
+PDB_ID	Reason
+3AVN	No ligand in pdb
+3AVL	No ligand in pdb
+3AVM	No ligand in pdb
+3AVJ	No ligand in pdb
+3AVH	No ligand in pdb
+3AVI	No ligand in pdb
+3AVF	No ligand in pdb
+3AVG	No ligand in pdb
+1EXQ	No ligand in pdb
+3AVB	No ligand in pdb
+3AVC	No ligand in pdb
+1B9D	No ligand in pdb
+3AVA	No ligand in pdb
+3AO1	No ligand in pdb
+3AV9	No ligand in pdb
+1B92	No ligand in pdb
+5JL4	No ligand in pdb
+1BIZ	No ligand in pdb
+1BIS	No ligand in pdb
+3AVK	No ligand in pdb
+5EU7	No ligand in pdb
+1B9F	No ligand in pdb
+1BI4	No ligand in pdb
+3WNE	No ligand in pdb
+1BIU	No ligand in pdb
+1ITG	No ligand in pdb
+2B4J	No ligand in pdb
+3L3U	No ligand in pdb
+1BL3	No ligand in pdb
+4CJT	No ligand in pdb
+3WNH	No ligand in pdb
+3WNF	No ligand in pdb
+3WNG	No ligand in pdb
+2ITG	No ligand in pdb
+1BHL	Could not align to reference
+1HYV	Could not align to reference
+1HYZ	Could not align to reference
+1QS4	Could not align to reference
+3AO2	Ligand(s) outside reference pocket
+3AO3	Could not align to reference
+3AO4	Could not align to reference
+3AO5	Could not align to reference
+3L3V	Could not align to reference
+3LPT	Could not align to reference
+3LPU	Could not align to reference
+3OVN	Could not align to reference
+3VQ4	Could not align to reference
+3VQ5	Could not align to reference
+3VQ6	Could not align to reference
+3VQ7	Could not align to reference
+3VQ8	Could not align to reference
+3VQ9	Could not align to reference
+3VQA	Could not align to reference
+3VQB	Could not align to reference
+3VQC	Could not align to reference
+3VQD	Could not align to reference
+3VQE	Could not align to reference
+3VQP	Could not align to reference
+3VQQ	Could not align to reference
+3ZCM	Could not align to reference
+3ZSO	Could not align to reference
+3ZSQ	Could not align to reference
+3ZSR	Could not align to reference
+3ZSV	Could not align to reference
+3ZSW	Could not align to reference
+3ZSX	Could not align to reference
+3ZSY	Could not align to reference
+3ZSZ	Could not align to reference
+3ZT0	Could not align to reference
+3ZT1	Could not align to reference
+3ZT2	Could not align to reference
+3ZT3	Could not align to reference
+3ZT4	Could not align to reference
+4AH9	Could not align to reference
+4AHR	Could not align to reference
+4AHS	Ligand(s) outside reference pocket
+4AHT	Ligand(s) outside reference pocket
+4AHU	Could not align to reference
+4AHV	Could not align to reference
+4CE9	Could not align to reference
+4CEA	Could not align to reference
+4CEB	Could not align to reference
+4CEC	Could not align to reference
+4CED	Could not align to reference
+4CEE	Could not align to reference
+4CEF	Could not align to reference
+4CEO	Could not align to reference
+4CEQ	Could not align to reference
+4CER	Could not align to reference
+4CES	Could not align to reference
+4CEZ	Could not align to reference
+4CF0	Could not align to reference
+4CF1	Could not align to reference
+4CF2	Could not align to reference
+4CF8	Could not align to reference
+4CF9	Could not align to reference
+4CFA	Could not align to reference
+4CFB	Could not align to reference
+4CFC	Could not align to reference
+4CFD	Could not align to reference
+4CGD	Could not align to reference
+4CGF	Could not align to reference
+4CGG	Could not align to reference
+4CGH	Could not align to reference
+4CGI	Could not align to reference
+4CGJ	Could not align to reference
+4CHN	Could not align to reference
+4CHO	Could not align to reference
+4CHQ	Could not align to reference
+4CHY	Could not align to reference
+4CIE	Could not align to reference
+4CIF	Could not align to reference
+4CIG	Could not align to reference
+4CJ3	Could not align to reference
+4CJ4	Could not align to reference
+4CJ5	Could not align to reference
+4CJE	Could not align to reference
+4CJF	Could not align to reference
+4CJK	Could not align to reference
+4CJL	Could not align to reference
+4CJP	Could not align to reference
+4CJQ	Could not align to reference
+4CJR	Could not align to reference
+4CJS	Could not align to reference
+4CJU	Could not align to reference
+4CJV	Could not align to reference
+4CK1	Could not align to reference
+4CK2	Could not align to reference
+4CK3	Could not align to reference
+4DMN	Could not align to reference
+4E1M	Could not align to reference
+4E1N	Could not align to reference
+4GVM	Could not align to reference
+4GW6	Could not align to reference
+4ID1	Could not align to reference
+4JLH	Could not align to reference
+4LH4	Could not align to reference
+4LH5	Could not align to reference
+4NYF	Could not align to reference
+4O0J	Could not align to reference
+4O55	Could not align to reference
+4O5B	Could not align to reference
+4OJR	Could not align to reference
+4OVL	Could not align to reference
+4TSX	Could not align to reference
+4Y1C	Could not align to reference
+4Y1D	Could not align to reference
+5HRN	Could not align to reference
+5HRP	Could not align to reference
+5HRR	Could not align to reference
+5HRS	Could not align to reference
+5KGW	Could not align to reference
+5KGX	Could not align to reference
+5KRS	Could not align to reference
+5KRT	Could not align to reference

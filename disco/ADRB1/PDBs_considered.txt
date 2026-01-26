@@ -1,0 +1,4 @@
+PDB_ID	Reason
+4GPO	No ligand in pdb
+2Y00	Two ligands in / near same reference pocket
+2Y01	Two ligands in / near same reference pocket

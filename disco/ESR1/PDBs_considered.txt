@@ -1,0 +1,12 @@
+PDB_ID	Reason
+4Q13	No ligand in pdb
+1ERE	Could not align to reference
+2B23	Could not align to reference
+2YJA	Could not align to reference
+3OS9	Two ligands in / near same reference pocket
+4Q50	Could not align to reference
+4ZNH	Two ligands in / near same reference pocket
+5DKB	Two ligands in / near same reference pocket
+5KCE	Two ligands in / near same reference pocket
+5TLX	Two ligands in / near same reference pocket
+5TN7	Two ligands in / near same reference pocket

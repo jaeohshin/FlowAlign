@@ -1,0 +1,3 @@
+PDB_ID	Reason
+2V5Q	No ligand in pdb
+3FC2	Two ligands in / near same reference pocket

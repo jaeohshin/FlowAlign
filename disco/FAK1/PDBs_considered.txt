@@ -1,0 +1,12 @@
+PDB_ID	Reason
+4D5K	No ligand in pdb
+4D55	No ligand in pdb
+4KAB	No ligand in pdb
+4D4R	No ligand in pdb
+4D4Y	No ligand in pdb
+2J0M	Could not align to reference
+4D4S	Could not align to reference
+4D4V	Could not align to reference
+4D58	Could not align to reference
+4EBV	Could not align to reference
+4EBW	Could not align to reference

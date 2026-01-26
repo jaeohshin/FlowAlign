@@ -1,0 +1,15 @@
+PDB_ID	Reason
+1OGS	Could not align to reference
+2F61	Could not align to reference
+2J25	Could not align to reference
+2NSX	Could not align to reference
+2NT0	Could not align to reference
+2NT1	Could not align to reference
+2WKL	Could not align to reference
+3GXD	Could not align to reference
+3GXF	Could not align to reference
+3GXI	Could not align to reference
+3GXM	Could not align to reference
+3KE0	Could not align to reference
+3KEH	Could not align to reference
+3RIK	Could not align to reference

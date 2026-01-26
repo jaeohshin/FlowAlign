@@ -1,0 +1,3 @@
+PDB_ID	LIG_ID
+2B8T	lig
+2UZ3	TTP

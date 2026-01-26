@@ -1,0 +1,5 @@
+PDB_ID	Reason
+4MNE	Two ligands in / near same reference pocket
+5CSX	Two ligands in / near same reference pocket
+5JRQ	Two ligands in / near same reference pocket
+5JSM	Two ligands in / near same reference pocket

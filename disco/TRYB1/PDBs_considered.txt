@@ -1,0 +1,13 @@
+PDB_ID	Reason
+2FPZ	No ligand in pdb
+1LTO	No ligand in pdb
+2F9N	Ligand(s) outside reference pocket
+2F9O	Could not align to reference
+2F9P	Ligand(s) outside reference pocket
+2ZEB	Two ligands in / near same reference pocket
+3V7T	Two ligands in / near same reference pocket
+4MPU	Two ligands in / near same reference pocket
+4MPV	Two ligands in / near same reference pocket
+4MPW	Two ligands in / near same reference pocket
+4MPX	Two ligands in / near same reference pocket
+4MQA	Two ligands in / near same reference pocket

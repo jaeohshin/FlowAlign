@@ -1,0 +1,15 @@
+PDB_ID	Reason
+3R29	No ligand in pdb
+1LBD	No ligand in pdb
+1G1U	No ligand in pdb
+3NSP	No ligand in pdb
+1G5Y	Could not align to reference
+1XDK	Could not align to reference
+1XLS	Could not align to reference
+1XV9	Could not align to reference
+1XVP	Could not align to reference
+2ACL	Could not align to reference
+3NSQ	Could not align to reference
+3UVV	Could not align to reference
+4ZO1	Could not align to reference
+5TBP	Two ligands in / near same reference pocket

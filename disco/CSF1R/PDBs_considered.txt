@@ -1,0 +1,2 @@
+PDB_ID	Reason
+2OGV	No ligand in pdb

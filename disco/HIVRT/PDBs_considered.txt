@@ -1,0 +1,56 @@
+PDB_ID	Reason
+2HMI	No ligand in pdb
+1QE1	No ligand in pdb
+1DLO	No ligand in pdb
+4ZHR	No ligand in pdb
+3DLK	No ligand in pdb
+1HVU	No ligand in pdb
+1J5O	No ligand in pdb
+4DG1	No ligand in pdb
+1HYS	No ligand in pdb
+1HQE	No ligand in pdb
+3KLI	No ligand in pdb
+1HMV	No ligand in pdb
+1N5Y	Could not align to reference
+1N6Q	Could not align to reference
+1R0A	Could not align to reference
+1RTD	Could not align to reference
+1RTJ	Could not align to reference
+1T03	Could not align to reference
+1T05	Could not align to reference
+2IAJ	Could not align to reference
+3IG1	Could not align to reference
+3ISN	Could not align to reference
+3ITH	Could not align to reference
+3JSM	Could not align to reference
+3JYT	Could not align to reference
+3KJV	Could not align to reference
+3KK1	Could not align to reference
+3KK2	Could not align to reference
+3KLE	Ligand(s) outside reference pocket
+3KLF	Could not align to reference
+3KLG	Could not align to reference
+3KLH	Could not align to reference
+3V4I	Could not align to reference
+3V6D	Could not align to reference
+3V81	Ligand(s) outside reference pocket
+4B3P	Could not align to reference
+4B3Q	Could not align to reference
+4PQU	Could not align to reference
+4R5P	Could not align to reference
+5D3G	Could not align to reference
+5HLF	Could not align to reference
+5HP1	Could not align to reference
+5HRO	Could not align to reference
+5I3U	Could not align to reference
+5I42	Could not align to reference
+5J1E	Could not align to reference
+5J2M	Could not align to reference
+5J2P	Could not align to reference
+5J2Q	Two ligands in / near same reference pocket
+5TXL	Could not align to reference
+5TXM	Could not align to reference
+5TXN	Could not align to reference
+5TXO	Could not align to reference
+5TXP	Could not align to reference
+5UV5	Could not align to reference

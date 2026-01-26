@@ -1,0 +1,20 @@
+PDB_ID	Reason
+2H5I	No ligand in pdb
+2H5J	No ligand in pdb
+2H65	No ligand in pdb
+2XZT	No ligand in pdb
+1PAU	No ligand in pdb
+2XZD	No ligand in pdb
+2Y0B	No ligand in pdb
+3EDQ	No ligand in pdb
+3GJT	No ligand in pdb
+3GJQ	No ligand in pdb
+4DCO	No ligand in pdb
+4DCJ	No ligand in pdb
+3GJS	No ligand in pdb
+4DCP	No ligand in pdb
+1NME	Two ligands in / near same reference pocket
+1RHK	Ligand(s) outside reference pocket
+2CJX	Could not align to reference
+2CJY	Could not align to reference
+2DKO	Could not align to reference

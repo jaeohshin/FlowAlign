@@ -1,0 +1,16 @@
+PDB_ID	Reason
+1II6	Could not align to reference
+3HQD	Could not align to reference
+3WPN	Could not align to reference
+3ZCW	Two ligands in / near same reference pocket
+4A1Z	Could not align to reference
+4A28	Could not align to reference
+4A50	Two ligands in / near same reference pocket
+4AQV	Could not align to reference
+4AQW	Could not align to reference
+4B7B	Could not align to reference
+4CK5	Could not align to reference
+4CK6	Could not align to reference
+4CK7	Could not align to reference
+4ZCA	Could not align to reference
+4ZHI	Could not align to reference

@@ -1,0 +1,52 @@
+PDB_ID	Reason
+2F7M	No ligand in pdb
+4XQS	No ligand in pdb
+4XQT	No ligand in pdb
+4XQR	No ligand in pdb
+1YQ7	Two ligands in / near same reference pocket
+1YV5	Two ligands in / near same reference pocket
+2F8Z	Two ligands in / near same reference pocket
+2OPM	Two ligands in / near same reference pocket
+2OPN	Two ligands in / near same reference pocket
+3N1V	Could not align to reference
+3N1W	Could not align to reference
+3N3L	Could not align to reference
+3N45	Two ligands in / near same reference pocket
+3N49	Could not align to reference
+3N5H	Could not align to reference
+3N5J	Could not align to reference
+3N6K	Could not align to reference
+4GA3	Two ligands in / near same reference pocket
+4H5D	Two ligands in / near same reference pocket
+4H5E	Two ligands in / near same reference pocket
+4KPD	Two ligands in / near same reference pocket
+4KPJ	Two ligands in / near same reference pocket
+4KQS	Two ligands in / near same reference pocket
+4KQU	Two ligands in / near same reference pocket
+4L2X	Two ligands in / near same reference pocket
+4LFV	Two ligands in / near same reference pocket
+4LPG	Could not align to reference
+4LPH	Could not align to reference
+4N1Z	Two ligands in / near same reference pocket
+4NG6	Two ligands in / near same reference pocket
+4NKE	Two ligands in / near same reference pocket
+4OGU	Two ligands in / near same reference pocket
+4P0V	Two ligands in / near same reference pocket
+4P0W	Two ligands in / near same reference pocket
+4P0X	Could not align to reference
+4QXS	Could not align to reference
+4RXA	Could not align to reference
+5CG6	Two ligands in / near same reference pocket
+5DGM	Could not align to reference
+5DGN	Could not align to reference
+5DGS	Could not align to reference
+5DIQ	Could not align to reference
+5DJP	Could not align to reference
+5DJR	Could not align to reference
+5DJV	Could not align to reference
+5JA0	Could not align to reference
+5JUZ	Could not align to reference
+5JV0	Could not align to reference
+5JV1	Could not align to reference
+5JV2	Could not align to reference
+5KSX	Could not align to reference

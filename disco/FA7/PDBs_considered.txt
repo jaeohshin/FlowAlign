@@ -1,0 +1,56 @@
+PDB_ID	Reason
+5PA8	No ligand in pdb
+5PA9	No ligand in pdb
+1KLI	No ligand in pdb
+5PAA	No ligand in pdb
+1KLJ	No ligand in pdb
+1JBU	No ligand in pdb
+5PAR	No ligand in pdb
+1DAN	Two ligands in / near same reference pocket
+1FAK	Could not align to reference
+2A2Q	Could not align to reference
+2AER	Could not align to reference
+2B8O	Two ligands in / near same reference pocket
+2FIR	Two ligands in / near same reference pocket
+2PUQ	Ligand(s) outside reference pocket
+3TH2	Could not align to reference
+3TH4	Two ligands in / near same reference pocket
+4IBL	Could not align to reference
+4JYU	Two ligands in / near same reference pocket
+4JYV	Two ligands in / near same reference pocket
+4JZD	Two ligands in / near same reference pocket
+4JZE	Two ligands in / near same reference pocket
+4JZF	Two ligands in / near same reference pocket
+4NG9	Two ligands in / near same reference pocket
+4NGA	Two ligands in / near same reference pocket
+4YLQ	Two ligands in / near same reference pocket
+5I46	Two ligands in / near same reference pocket
+5PAB	Two ligands in / near same reference pocket
+5PAC	Could not align to reference
+5PAE	Could not align to reference
+5PAF	Could not align to reference
+5PAG	Could not align to reference
+5PAI	Could not align to reference
+5PAJ	Could not align to reference
+5PAK	Could not align to reference
+5PAM	Could not align to reference
+5PAN	Could not align to reference
+5PAO	Could not align to reference
+5PAQ	Could not align to reference
+5PAS	Could not align to reference
+5PAT	Could not align to reference
+5PAU	Could not align to reference
+5PAV	Could not align to reference
+5PAW	Could not align to reference
+5PAX	Could not align to reference
+5PAY	Could not align to reference
+5PB0	Could not align to reference
+5PB1	Could not align to reference
+5PB2	Could not align to reference
+5PB3	Could not align to reference
+5PB4	Could not align to reference
+5PB5	Could not align to reference
+5PB6	Could not align to reference
+5TQE	Two ligands in / near same reference pocket
+5TQF	Two ligands in / near same reference pocket
+5TQG	Two ligands in / near same reference pocket

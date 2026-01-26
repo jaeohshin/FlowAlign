@@ -1,0 +1,4 @@
+PDB_ID	Reason
+1VFL	No ligand in pdb
+1W1I	Could not align to reference
+2BGN	Could not align to reference

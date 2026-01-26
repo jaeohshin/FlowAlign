@@ -1,0 +1,20 @@
+PDB_ID	Reason
+1J2E	Could not align to reference
+1NU6	Could not align to reference
+1NU8	Could not align to reference
+1PFQ	Could not align to reference
+1R9M	Could not align to reference
+1R9N	Could not align to reference
+1TK3	Could not align to reference
+1U8E	Could not align to reference
+1W1I	Could not align to reference
+1WCY	Could not align to reference
+2BGN	Could not align to reference
+2BGR	Ligand(s) outside reference pocket
+2G63	Ligand(s) outside reference pocket
+2I03	Ligand(s) outside reference pocket
+2OAG	Ligand(s) outside reference pocket
+2OQI	Ligand(s) outside reference pocket
+4KR0	Could not align to reference
+4L72	Could not align to reference
+4QZV	Could not align to reference
