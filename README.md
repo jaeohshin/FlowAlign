@@ -11,10 +11,14 @@ FlowAlign/
 │       ├── training_pairs_unfiltered.pkl  # Pairs with 2D similarity filter
 │       └── training_pairs_filtered_shape.pkl  # + 3D shape filter
 ├── models/
-│   ├── common.py                    # Shared model components
-│   └── epsnet/
-│       ├── diffusion.py            # DiffAlign (original)
-│       └── flow.py                 # FlowAlign (modified)
+│   ├── encoder/
+│   │   ├── cross_attention.py      # Cross-attention layers
+│   │   ├── edge.py                 # Edge feature processing
+│   │   └── egnn.py                 # E(n) Equivariant GNN
+│   ├── epsnet/
+│   │   ├── diffusion.py            # DiffAlign (original)
+│   │   └── flow.py                 # FlowAlign (modified)
+│   └── common.py                   # Shared model components
 ├── utils/
 │   ├── chem.py                     # Molecular graph utilities
 │   └── datasets.py                 # PyTorch datasets
