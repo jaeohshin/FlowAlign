@@ -16,10 +16,10 @@ RESUME_CHECKPOINT = os.path.join(CHECKPOINT_DIR, 'last_state.pt')
 LOG_DIR = 'runs/experiment_1'
 DATA_PATH = 'data/processed/training_pairs_filtered.pkl'
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-BATCH_SIZE = 8
+BATCH_SIZE = 16
 LEARNING_RATE = 1e-4
-TARGET_EPOCHS = 200
-PATIENCE = 15 
+TARGET_EPOCHS = 300
+PATIENCE = 50 
 
 # --- Initialization ---
 model = DiffAlign().to(DEVICE)
